@@ -172,3 +172,15 @@ Conclusion
 
 This project demonstrates how a Feedforward Neural Network can be used for multi-class classification. The model learns patterns from flower measurements and predicts the corresponding Iris species.
 
+
+Trained Model Files
+
+The trained model files are not included in this repository because of GitHub file size limitations.
+
+The following files are part of this project:
+
+--- iris_fnn_model.keras - Trained Feedforward Neural Network model.
+--- iris_scaler.pkl - Scaler used for input data preprocessing.
+
+NOTE :- To use the model for prediction, train the model using the provided Jupyter Notebook to generate the required files.
+
